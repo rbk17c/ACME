@@ -1,25 +1,25 @@
 ACME for linux / Fedora 41
 ====
 
-This is a fork of martinpiper/ACME All credit to him, and al blame om me
+This is a fork of martinpiper/ACME All credit to him, and al blame om me  
+I did this fork to get the latest features, changing as little as possible to compile it on linux/gcc/Fedora 41...  
+It dos compile to linux now, except the python part.  
 
-I did this fork to get the lates features, changing as little as possible to compile it on linux/gcc/Fedora 41...
+Im not sure how 'usefull' this version is for a linux IDE, as:
+* -r ( 'report' -> shows assembler code after pre-processor )
+* -D define labels
+are gone / not working - and they are kind of vital to me  
+  
+Since I use vim/make/vice as my IDE, Visual Debugger functions and Code profiling, are not vital,
 
-It dos compile to linux now, except the python part.
-
-Im not sure how 'usefull' this version is, as 
-
--r ( 'report' -> shows assembler code after pre-processor )
-
--D define labels
-
-are gone / not working
-( and they are kind'a vital to me )
-
-
-
-Original readme below:
-## ------------- ##
+**So, I will go back to the original (SVN) version. Take a look at https://github.com/rbk17c/ACME097**  
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+O
+## ------------- Original readme below -------##
 
 
 A 6502/6510 assembler used for my C64 and other 8 bit projects
