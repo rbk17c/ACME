@@ -2,13 +2,17 @@ ACME for linux / Fedora 41
 ====
 
 This is a fork of martinpiper/ACME All credit to him, and al blame om me
+
 I did this fork to get the lates features, changing as little as possible to compile it on linux/gcc/Fedora 41...
 
 It dos compile to linux now, except the python part.
 
 Im not sure how 'usefull' this version is, as 
+
 -r ( 'report' -> shows assembler code after pre-processor )
+
 -D define labels
+
 are gone / not working
 ( and they are kind'a vital to me )
 
